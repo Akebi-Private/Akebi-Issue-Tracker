@@ -14,13 +14,13 @@
 
 Guidelines on how to report bugs, issues, and feature requests:
 
-**1.** Use the GitHub issues to report bugs and issues.
-**2.** Make sure to include the following information in your report:
+1. Use the GitHub issues to report bugs and issues.
+2. Make sure to include the following information in your report:
   - Steps to reproduce the issue
   - Expected behavior
   - Actual behavior
   - Screenshots or video
 
-**3.** Label your issue with the appropriate label (e.g. "bug", "feature request")
-**4.** The project maintainers will respond to your issue as soon as possible.
+3. Label your issue with the appropriate label (e.g. "bug", "feature request")
+4. The project maintainers will respond to your issue as soon as possible.
 
